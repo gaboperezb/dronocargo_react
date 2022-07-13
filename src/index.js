@@ -4,14 +4,14 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import DronocargoApp from './Components/DronocargoApp/DronocargoApp';
-import Details from './Components/DeliveryDetail/DeliveryDetail';
+import DeliveryDetail from './Components/DeliveryDetail/DeliveryDetail';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/shipment/:id" element={<Details />} />
+        <Route path="/shipment/:id" element={<DeliveryDetail />} />
         <Route path="/" element={<DronocargoApp />} />
       </Routes>
     </BrowserRouter>
