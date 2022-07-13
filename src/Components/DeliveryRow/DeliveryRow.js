@@ -25,7 +25,7 @@ class DeliveryRow extends React.Component {
     const delivery = this.props.delivery;
 
     return (
-      <tr className={`delivery-table__row ${delivery.status == "Pending" ? 'delivery-table__row--pending' : ''}`} >
+      <tr className={`delivery-table__row ${delivery.status === "Pending" ? 'delivery-table__row--pending' : ''}`} >
         <td className="delivery-table__data delivery-table__data--status">
           <p className="delivery-table__header">
             Status
