@@ -1,15 +1,15 @@
 # Note
 
-This file contains a graphic I made of the UI, where I show how the app is divided into components, as well the Hierarchy.
+The following file contains a graphic I made of the user interface, where I show the hierarchy of the components.
 
 ```
-components-hierarchy.png
+components-hierarchy.pdf
 ```
 
 
 ## Run Dronocargo
 
-How tu run it:
+How tu run the exercise:
 
 ### `npm start`
 
