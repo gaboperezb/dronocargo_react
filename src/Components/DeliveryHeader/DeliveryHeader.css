@@ -1,0 +1,26 @@
+
+  
+  .header__button {
+    font-weight: 300;
+    font-size: 30px;
+    margin-right: 16px;
+    cursor: pointer;
+    color: #00000080;
+  }
+  
+  .header__button:hover {
+    color: #000000;
+  }
+  
+  .header__button--selected {
+    color: black;
+    font-weight: 400;
+  }
+
+  .delivery-actions__element {
+    margin-right: 16px
+  }
+
+  .header {
+    margin-right: auto;
+  }

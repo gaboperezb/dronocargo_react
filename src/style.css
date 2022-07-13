@@ -127,11 +127,6 @@ meter {
  
 }
 
-.button--rel {
-  position: relative;
- 
-}
-
 .button--empty {
 background: #FFFFFF;
 color: black;

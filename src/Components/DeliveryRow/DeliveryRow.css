@@ -1,0 +1,110 @@
+
+.delivery-table__data--status {
+    width: 90px;
+    height: 40px;
+  }
+  
+  .delivery-table__data--id {
+    width: 99px;
+    height: 40px;
+  }
+  
+  .delivery-table__data--technician {
+    width: 124px;
+    height: 40px; 
+  }
+  
+  .delivery-table__data--platform {
+    width: 58px;
+    height: 40px;
+  }
+  .delivery-table__data--drone {
+    width: 75px;
+    height: 40px;
+  }
+  
+  .delivery-table__data--technical-check {
+    width: 107px;
+    height: 40px;
+  }
+  
+  
+  .delivery-table__data--actions {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  
+  
+  .delivery-table__row {
+    height: 104px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px 0px;
+    box-shadow: inset 0px -1px 0px rgba(0, 0, 0, 0.1);
+  }
+  
+  .delivery-table__row--pending {
+    box-shadow: inset 0px -2px 0px #307460;
+  }
+  
+  
+  .delivery-table__header {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #00000080;
+  }
+  
+  
+  .delivery-table__value {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;  
+  }
+  
+  .delivery-table__value--bold {
+    font-weight: 500;
+  }
+  
+
+
+
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: block;
+    position: absolute;
+    min-width: 110px;
+    z-index: 1;
+    top: 39px;
+    right: 0px;
+    background: #FFFFFF;
+    color: black;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 8px 6px 0px rgb(0 0 0 / 20%);
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+
+  .open-icon path {
+    fill: #bfbfbf;
+  }
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  
+  
+  
+  
+  

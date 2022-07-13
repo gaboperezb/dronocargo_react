@@ -1,0 +1,26 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .nav__element--bold {
+    font-weight: 600;
+  }
+  
+  
+  .user {
+    display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+
+  .user__icon path {
+    fill: #00000040;
+  }
+
+
+  .user__name {
+    margin-right: 10px;
+  }
+  
