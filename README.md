@@ -1,10 +1,16 @@
 # Notes
 
+## Components Graphic:
+
 The following file contains a graphic I made of the user interface, where I show the hierarchy of the components.
 
 ```
 components-hierarchy.pdf
 ```
+
+## Search Deliveries:
+
+The searchbar filters by Order ID.
 
 ## How to run the app:
 
