@@ -1,9 +1,11 @@
-# Component
+# Note
+
+This file contains a graphic I made of the UI, where I show how the app is divided into components, as well the Hierarchy.
 
 ```
-Components and Hierarchy (UI).png
+components-hierarchy.png
 ```
-This file contains a graphic I made of the UI, where I show how the app is divided into components, as well the Hierarchy.
+
 
 ## Run Dronocargo
 
