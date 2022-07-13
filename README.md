@@ -6,7 +6,7 @@ The following file contains a graphic I made of the user interface, where I show
 components-hierarchy.pdf
 ```
 
-## How tu run the exercise:
+## How to run the app:
 
 ### `npm start`
 
